@@ -9,5 +9,5 @@ Installing ROS Noetic.
 
 #Task 2
 
-Creating a Face Detection program.
+Designing a face detection program to determine the faces and drawing a blue square on them.
 
