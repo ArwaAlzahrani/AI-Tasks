@@ -1,0 +1,15 @@
+# read the data from the URL and print it 
+# 
+import urllib.request 
+# open a connection to a URL using urllib 
+webUrl = urllib.request.urlopen('http://www.brainjar.com/java/host/test.html') 
+#get the result code and print it 
+print ("result code: " + str(webUrl.getcode())) 
+# read the data from the URL and print it 
+data = webUrl.read() 
+print (data)
+
+
+Python 3.8.3 (tags/v3.8.3:6f8c832, May 13 2020, 22:20:19) [MSC v.1925 32 bit (Intel)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>>
