@@ -1,5 +1,5 @@
 # AI-Task
-This file contains the tasks that I did in Artificial Intelligence for my Cooperative Training at Smart Methods.
+This file contains the tasks that I did in Artificial Intelligence.
 Using: Pycharm(OpenCV)
 
 #Task 1
